@@ -1,0 +1,14 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+*.pkl.bak
+
+# Node & Build
+frontend/node_modules/
+frontend/dist/
+.DS_Store
+
+# Local SQLite Database
+*.db
